@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /about
 title: Creating Next Generation Biometrics
 tags: 
 imagefeature: fourseasons.jpg

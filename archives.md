@@ -4,7 +4,6 @@ permalink: /archives
 title: Archives
 tags: [archives]
 description: "Archives of all resources."
-
 ---
 
 <ul class="tag-box inline">
