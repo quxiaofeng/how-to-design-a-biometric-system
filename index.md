@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-description: ""
+description: 
 headline: Creating Next Generation Biometrics
-tags: []
+tags:
 ---
 {% if site.paginate %}
 	{% for post in paginator.posts %}
