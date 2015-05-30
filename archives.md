@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /archives
+permalink: /archives/
 title: Archives
 tags: [archives]
 description: "Archives of all resources."
