@@ -38,11 +38,11 @@ links:
     external: false
     icon: home
   - title: Featured Posts
-    url: /featured
+    url: /featured/
   - title: Archives
-    url: /archives
+    url: /archives/
   - title: About
-    url: /about
+    url: /about/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
