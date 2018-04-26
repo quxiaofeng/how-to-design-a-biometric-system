@@ -45,10 +45,8 @@ links:
     url: /about/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Asia/Hong_Kong
 future:      true
-highlighter: pygments
-markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
 
